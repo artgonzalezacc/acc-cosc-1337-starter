@@ -1,7 +1,7 @@
 # acc-cosc-1337-starter
 C++ starter code with CMake 
 # If you use the Replit C++ Compiler, open the .replit file and add the following command below the language="cpp" line.
-run="export CC=clang; export CXX=clang++; mkdir -p ../build; cd ../build; cmake ../acc-cosc-1337-spring-2021-artgonzalez/; make; cd src/examples/01_module/01_hello_world; ./ex_01_01_exe" 
+run="export CC=clang; export CXX=clang++; mkdir -p ../build; cd ../build; cmake ../acc-cosc-1337-spring-2021-yourusername/; make; cd src/examples/01_module/01_hello_world; ./ex_01_01_exe" 
 The above-listed run command runs the Hello World Example in the src/examples/01_module.
 
 # Replit file HOW-TO
